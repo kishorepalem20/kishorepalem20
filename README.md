@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @kishorepalem20
-- 👀 I’m interested in DevOps, Python, shell script, Dockers, Kubernetes 
-- 🌱 I’m currently learning Python, shell scripting
-- 💞️ I’m looking to collaborate on DevOps
+🚀 DevOps Engineer | Cloud Enthusiast | Open-Source Contributor 🌍
 
-<!---
-kishorepalem20/kishorepalem20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 DevOps and Cloud Wizard 🌩️ | Security Geek 🔒 | AI and ML Enthusiast 🤖
+
+🏆 AWS Certified Solutions Architect | Docker | Kubernetes | Terraform | Jenkins
+
+🌐 Exploring the intersection of DevOps, Cloud, and Security to drive innovation and efficiency.
+
+💡 Passionate about automating the future | DevOps Tools and Cloud Technologies aficionado.
+
+🌟 Open-Source Contributor | Check out my projects on GitHub!
+
+🎓 Master of Science in Computer Science | AWS Cloud Practitioner
+
+🔗 Let's connect: https://www.linkedin.com/in/kishore-palem/ 
+
+📬 Reach out for collaborations, discussions, and all things tech!
+
+🌐 "In a world of code, let's create something remarkable together."
+
+#DevOps #CloudComputing #Automation #AI #OpenSource #TechEnthusiast
